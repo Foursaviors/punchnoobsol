@@ -1,0 +1,34 @@
+JAVA SCRIPT PROGRESS
+
+
+GetelementbyId 
+funcitions
+date
+<!DOCTYPE html>
+<html>
+<button id="clickMe" type="button" onclick=>E</button>
+  <h1 id="t1">text</h1>
+  <style>
+    #t1 {
+        display: none;
+    }
+  </style>  
+  <script>
+    document.getElementById("t1").style.display = "flex";
+    document.getElementById("clickMe").onclick = function () { alert('hello!'); };
+  </script>
+
+</html>
+
+
+button onclick can be used to activate functions
+functions are   for events 
+alrets
+js can change html content
+get elementbyID
+alret can be used to add alret message from the website
+flex is showing and none is hiding a text
+<button onclick should have an id before or smth
+
+the goal is to learn how to make a simple block disspear and reappear after clicking it and appearing in a difrent location
+in order to have huge use of javascript
